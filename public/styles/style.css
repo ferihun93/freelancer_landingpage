@@ -3,6 +3,9 @@
   padding: 0;
 }
 
+body {
+}
+
 html {
   scroll-behavior: smooth;
   color: #000;
